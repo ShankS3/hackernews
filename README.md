@@ -1,4 +1,11 @@
+## Introduction
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+Fetches data from [HackerNews API](https://hn.algolia.com/api/v1/search_by_date?tags=story&page=0) and displays it.
+
+
+Uses React Hooks for infinite scroll implementation.
 
 ## Available Scripts
 
