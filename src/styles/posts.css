@@ -1,0 +1,24 @@
+.posts-table {
+  color: #fefefe;
+}
+
+.posts-table tbody tr:hover {
+  background-color: gray;
+}
+
+.posts-table tr:first-child  > td {
+  border-top: 0
+}
+
+.posts-table > .new-posts {
+  background-color: honeydew;
+}
+
+.new-posts > td:first-child {
+  font-weight: bold;
+  color: var(--warning);
+}
+
+.posts-table > .posts {
+  background-color: lightgray;
+}
